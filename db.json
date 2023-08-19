@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "content": "Sample Task 1",
+      "completed": false
+    },
+    {
+      "content": "Task 2",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "content": "Task 1",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "content": "Task 3",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
